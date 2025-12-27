@@ -2,12 +2,13 @@
 
 Use your tablet/phone as a touch controller for Project Diva on Linux.
 
+https://github.com/user-attachments/assets/ccafbbb6-cff3-453e-975a-8ef371ecd940
+
 ## Build
 
 ```bash
 go build .
 ```
-
 ## Run
 
 ```bash
